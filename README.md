@@ -53,7 +53,7 @@ cd hashdetect
 Run the tool:
 
 ```bash
-python main.py
+python HashDetect.py
 ```
 
 Enter a hash when prompted:
