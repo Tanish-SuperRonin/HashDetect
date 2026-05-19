@@ -42,14 +42,8 @@ HashDetect is a lightweight Python-based CLI utility designed for VAPT and cyber
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hashdetect.git
+git clone https://github.com/Tanish-SuperRonin/HashDetect
 cd hashdetect
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
 ```
 
 ---
